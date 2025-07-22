@@ -1,4 +1,4 @@
-# LCNCInterview
+# An Exploratory Interview Study of End-User LLM Agent Development Practices
 
 ## README
 
