@@ -18,7 +18,7 @@ This repository contains materials from a qualitative study examining how non-ex
 - `Interview_Questions.md`  
   The semi-structured interview protocol used to guide each session.
 
-- `Final_Codebook.pdf`  
+- `Codebook.xlsx`  
   A thematic codebook developed through inductive coding of the interview transcripts.
 
 > *Note: These materials are anonymized English translations of the original forms written in Simplified Chinese. The content remains faithful to the original study documentation.*
